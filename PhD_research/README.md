@@ -27,6 +27,15 @@ The project also aimed to compare the model results with other existing models a
 - 30°N – 30°S, 0°–360° E
 - Tropical troposphere
 
+## Methodology:
+- Used ATLAS Lagrangian chemistry and transport model for analysis
+- Developed a numerical model in MATLAB where I developed parameterizations to improve model accuracy 
+- Collected, preprocessed and explored data from diverse sources and file formats, multiple GBs large.
+- Created a range of high quality visualizations using different packages
+- Presented results in national and international conferences to technical and non-technical audiences.
+- Collaborated with world leading scientists to produce scientific reports
+
+## Results
 **RQ1: Source Regions of SO2**
 
 * The main source regions identified by the ATLAS model are over Eastern China, India, Southern Mexico, South East Asia, and Papa New Guinea.
@@ -57,14 +66,7 @@ The project also aimed to compare the model results with other existing models a
 
 [Slide Deck with results](https://github.com/nalapalu/PhD_research/blob/main/Thesis_Defence_Presntaion_Chiran.pdf)
 
-## Methodology:
-- Used ATLAS Lagrangian chemistry and transport model for analysis
-- Developed a numerical model in MATLAB where I developed parameterizations to improve model accuracy 
-- Collected, preprocessed and explored data from diverse sources and file formats, multiple GBs large.
-- Created a range of high quality visualizations using different packages
-- Presented results in national and international conferences to technical and non-technical audiences.
-- Collaborated with world leading scientists to produce scientific reports
-  
+
 ## References:
 - Nalapalu et al. (2025): Model calculations of the contribution of tropospheric SO2 to the stratospheric aerosol layer
 - Wohltmann et al. (2019): A lagrangian convective transport scheme including a simulation of the time air parcels spend in updrafts 
