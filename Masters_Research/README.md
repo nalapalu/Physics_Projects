@@ -29,7 +29,10 @@ This project examines the vertical structure, storm height distribution, and tem
 - Arabian Sea (AS): 8°–20° N, 63°–72° E
 - Bay of Bengal (BOB): 8°–21° N, 83°–92° E
 
-## Key Findings:
+## Results:
+
+[Slide Deck with results](https://github.com/nalapalu/Physics_Projects/blob/main/Masters_Research/Chiran_ThesisPresentation.pdf)
+
 - **Vertical Structure of Precipitation:**
   - Higher occurrence of shallow rainfall observed below 4 km altitude during dry spells, particularly evident over the Arabian Sea (AS) and Bay of Bengal (BOB) during the Northeast Monsoon (NEM).
   - Reflectivity occurrence shows a unimodal distribution in NEM and a bimodal distribution in SWM, indicating increased shallow rainfall occurrences transitioning from SWM to NEM over BOB.
@@ -44,9 +47,6 @@ This project examines the vertical structure, storm height distribution, and tem
     - Short-term (3–8 days): linked to synoptic-scale activities.
     - Intermediate-term (10–20 days): northward propagation of rainy systems.
     - Long-term (30–60 days): northwestward propagation, correlated to large-scale atmospheric and oceanic processes such as the Madden-Julian Oscillation (MJO).
-
-[Slide Deck with results](https://github.com/nalapalu/Masters_Research/blob/main/Chiran_ThesisPresentation.pdf)
-
 
 ## Methodology:
 - Analysis based on radar reflectivity profiles (CFADs - Contoured Frequency by Altitude Diagrams) using TRMM PR datasets.
