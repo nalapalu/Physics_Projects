@@ -36,6 +36,9 @@ The project also aimed to compare the model results with other existing models a
 - Collaborated with world leading scientists to produce scientific reports
 
 ## Results
+
+[Project Presentation](https://github.com/nalapalu/PhD_research/blob/main/Thesis_Defence_Presntaion_Chiran.pdf)
+
 **RQ1: Source Regions of SO2**
 
 * The main source regions identified by the ATLAS model are over Eastern China, India, Southern Mexico, South East Asia, and Papa New Guinea.
@@ -63,8 +66,6 @@ The project also aimed to compare the model results with other existing models a
 * During El Niño years, the main sources are Eastern China and the South China Sea, with lower SO2 burden compared to La Niña years.
 * La Niña years show the highest SO2 mass flux, followed by normal years, which have a moderate increase in SO2 burden.
 * ENSO events alter the sensitivity of DMS values, with the largest effect observed during El Niño years.
-
-[Slide Deck with results](https://github.com/nalapalu/PhD_research/blob/main/Thesis_Defence_Presntaion_Chiran.pdf)
 
 
 ## References:
