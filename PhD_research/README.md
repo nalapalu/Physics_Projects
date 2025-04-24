@@ -37,7 +37,7 @@ The project also aimed to compare the model results with other existing models a
 
 ## Results
 
-[Project Presentation](https://github.com/nalapalu/PhD_research/blob/main/Thesis_Defence_Presntaion_Chiran.pdf)
+[Project Presentation](https://github.com/nalapalu/Physics_Projects/blob/main/PhD_research/Thesis_Defence_Presntaion_Chiran.pdf)
 
 **RQ1: Source Regions of SO2**
 
